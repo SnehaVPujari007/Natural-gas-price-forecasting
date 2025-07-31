@@ -71,10 +71,6 @@ python main.py
 - Risk management and scenario planning
 - Client pricing discussions
 
-## 📞 Support
-
-Create an [Issue](https://github.com/SnehaVPujari007/natural-gas-price-analysis/issues) for questions or feature requests.
-
 ---
 
 ⭐ **Star this repo if it helps your energy trading analysis!**
